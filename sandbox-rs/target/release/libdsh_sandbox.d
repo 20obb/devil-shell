@@ -1,0 +1,1 @@
+/home/devil/Documents/tool/sandbox-rs/target/release/libdsh_sandbox.a: /home/devil/Documents/tool/sandbox-rs/src/lib.rs /home/devil/Documents/tool/sandbox-rs/src/namespace.rs /home/devil/Documents/tool/sandbox-rs/src/profile.rs /home/devil/Documents/tool/sandbox-rs/src/seccomp.rs

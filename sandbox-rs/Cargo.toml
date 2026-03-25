@@ -1,0 +1,17 @@
+[package]
+name = "dsh_sandbox"
+version = "0.1.0"
+edition = "2021"
+description = "DevilShell sandbox engine — namespace isolation & seccomp filtering"
+
+[lib]
+name = "dsh_sandbox"
+crate-type = ["staticlib"]
+
+[dependencies]
+libc = "0.2"
+
+[profile.release]
+opt-level = 3
+lto = true
+strip = true
