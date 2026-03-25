@@ -84,4 +84,4 @@ sandbox exit            # Exit sandbox mode
 
 ## License
 
-MIT
+GPL 2.0V
